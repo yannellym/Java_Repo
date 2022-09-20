@@ -1,4 +1,4 @@
-# In this challenge, you have to calculate the first 'n' fibonacci numbers.
+// In this challenge, you have to calculate the first 'n' fibonacci numbers.
 
 class HelloWorld {
     public static void main( String args[] ) {
