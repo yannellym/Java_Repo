@@ -1,6 +1,6 @@
-# Write code that draws half a pyramid using the # character.
+//  Write code that draws half a pyramid using the # character.
 
-# You are given an integer variable rows as input, and you have to print the pyramid with that number of rows displaying #.
+//  You are given an integer variable rows as input, and you have to print the pyramid with that number of rows displaying #.
 
 class PrintPyramid {
     public static void test(int rows) {
