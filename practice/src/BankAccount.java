@@ -1,5 +1,3 @@
-package programs;
-
 public class BankAccount {
     // static variables for things that are going to be common across the class object
     // non-static variables for things that are going ot be unique across the class object
