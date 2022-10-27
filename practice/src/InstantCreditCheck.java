@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+// methods example
 import java.util.Scanner;
 
 public class InstantCreditCheck {
