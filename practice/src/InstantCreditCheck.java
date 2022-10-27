@@ -2,7 +2,6 @@
 import java.util.Scanner;
 
 public class InstantCreditCheck {
-
     static int requiredSalary = 25000;
     static int requiredCreditScore = 700;
     static Scanner scanner = new Scanner(System.in);
