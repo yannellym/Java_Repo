@@ -14,6 +14,7 @@ public class DayOfTheWeek {
     public static int userResponse(){
         System.out.println("Please input a number that corresponds to the day of the week");
         int response = scanner.nextInt();
+        scanner.close();
         return response;
 
     }
