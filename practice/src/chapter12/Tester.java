@@ -19,7 +19,7 @@ public class Tester {
 
         /*
             The forEach is used here to demonstrate another approach to looping.
-            However, in reality, I would have added a print statement inside of
+            However, in reality, I would have added a print statement inside
             the loop above so that the program does not have to loop over this map
             for a second time. This would be a more efficient approach:
             System.out.println("Student: " + student.getKey() + ", Grade:" + gradeBook.get(student.getKey()));
@@ -29,4 +29,3 @@ public class Tester {
                 (k,v)->System.out.println("Student: " + k + ", Grade: " + v));
         }
     }
-}
